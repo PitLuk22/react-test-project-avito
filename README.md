@@ -4,7 +4,7 @@ This project was built to consolidate my knowledge in _ReactJS_, _react-hook-for
 
 ( ***json-server*** is used here, don't forget to start it 😄)
 
-In order to start this project, first of all, you need run the next script - `json-server src/db.json` and then you should start `npm start`.
+In order to start this project, first of all, you need run the next script - `json-server src/db.json` and then you should run `npm start`.
 
 ## Getting Started with Create React App
 
