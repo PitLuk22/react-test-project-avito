@@ -1,7 +1,7 @@
 # React test project for Avito
 
 This project was built to consolidate my knowledge in _ReactJS_, _react-hook-form_ with _yup_, _styled-components_, _GET_ and _POST_ queries. 
-<p>(**json-server** is used here, don't forget to start it 😄)</p>
+<p>( <b>json-server</b> is used here, don't forget to start it 😄)</p>
 In order to start this project, first of all, you need run the next script - `json-server src/db.json` and then you should start `npm start`.
 
 ## Getting Started with Create React App
