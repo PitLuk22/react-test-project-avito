@@ -34,7 +34,7 @@ const Form = ({ id, updateComments }) => {
 				e.target.reset()
 			})
 	}
-	console.log(errors);
+
 	return (
 		<S.Form onSubmit={handleSubmit(onSubmit)}>
 			<S.FormControl>

@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# React test project for Avito
+
+This project was built to consolidate my knowledge in _ReactJS_, _react-hook-form_ with _yup_, _styled-components_, _GET_ and _POST_ queries. (**json-server** is used here, don't forget to start it 😄)
+In order to start this project, first of all, you need run the next script - `json-server src/db.json` and then you should start `npm start`.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
